@@ -205,7 +205,7 @@
   }
   #story {
     position: relative;
-    top: 650px;
+    top: 580px;
     font-size: 20px;
     word-spacing: 10px;
     line-height: 30px;
@@ -215,7 +215,7 @@
   #banner {
     position: absolute;
     float: right;
-    top: 320%;
+    top: 300%;
     width: 100%;
   }
   #firstbanner {
